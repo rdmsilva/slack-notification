@@ -3,7 +3,7 @@ const { Plugin } = require('release-it');
 class SlackNotification extends Plugin {
     afterRelease() {
         console.log("**** after Release ****")
-        console(`Name ${this.getName()}`)
+        console.log(`Name ${this.getName()}`)
     }
 }
 
