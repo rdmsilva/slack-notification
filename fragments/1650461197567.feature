@@ -1,1 +1,0 @@
-Adiciona uma configuração base para o um plugin custom.
