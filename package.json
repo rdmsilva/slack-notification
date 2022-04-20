@@ -2,7 +2,7 @@
     "version": "0.0.0",
     "dependencies": {
         "@release-it/bumper": "^3.0.1",
-        "news-fragments": "1.15.1",
+        "news-fragments": "1.14.2",
         "release-it": "^14.14.2"
     },
     "release-it": {
